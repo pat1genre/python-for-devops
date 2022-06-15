@@ -7,6 +7,7 @@ From zero repos for doing python devops works
 Create developement environement that is cloud-based
 
 ### Colab Notebook
+  This is an example on how to use [colab](https://github.com/pat1genre/python-for-devops/blob/main/Getting_started_pyton.ipynb)
 ### GitHub Codespace
 ### GCP CloudShell
 
